@@ -1,5 +1,8 @@
 In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
 
+### Link to the page is given below:
+https://mknxtwatch.ccbp.tech/
+
 ### Refer to videos below:
 
 **Success View** <br/>
